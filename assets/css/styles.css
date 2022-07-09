@@ -166,7 +166,7 @@ body{
 
 
 
-@media (max-width: 375px) {
+@media (max-width: 550px) {
     .card{
         background-color: var(--neutral-card-blue);
         min-height: 100vh;
